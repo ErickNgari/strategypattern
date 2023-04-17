@@ -1,6 +1,14 @@
 # strategypattern
+Commands
+***************
+cd strategypattern/
 
-Visit
+mvn clean install
+
+mvn spring-boot:run
+
+Then Visit:
+*******************
 
 http://localhost:8080/rest/test 
 
